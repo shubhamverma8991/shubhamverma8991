@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shubham_Verma
 - 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on Projects related to WEB Development
 - 📫 shubhamv2010@gmail.com
 
 <!---
