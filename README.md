@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubham_Verma
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m a Software Engineer
 - 📫 shubhamv2010@gmail.com
 
 <!---
