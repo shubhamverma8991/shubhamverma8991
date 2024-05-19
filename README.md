@@ -1,5 +1,5 @@
 # 💫 About Me:
-      Hi I'm Shubham Verma<br>🔭 I’m currently working as Software Engineer <br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning NextJs Framework and Backend using Nodejs<br>💬 Ask me about any FrontEnd Topics
+🔭 I’m Shubham Verma<br>👯 I’m working as a Software Engineer<br>🤝 I’m looking to Collaborate on any FrontEnd Projects<br>🌱 I’m currently learning NextJs & Backend(NodeJs)<br>💬 Ask me about any FrontEnd Topis
 
 
 ## 🌐 Socials:
